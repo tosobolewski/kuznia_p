@@ -1,0 +1,2252 @@
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 0
+losujNieobecnych: 1 1 1 1 1 1 1 1 1
+delta (sort.) =   0 0 0 0 0 0 0 0 0 
+wagi:             0 0 0 0 0 0 0 0 0 
+zakres: 0, losowanie: 0
+kto dzis kupuje: 0
+
+ktoKupuje: 0
+zjedzone:     1 1 1 1 1 1 1 1 1
+
+kupione:      9 0 0 0 0 0 0 0 0
+
+obliczDelty  -8 1 1 1 1 1 1 1 1 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: - 1 1 1 - 1 1 1 1
+delta (sort.) =   0 0 1 1 1 1 1 
+wagi:             0 0 1 2 3 4 5 
+zakres: 5, losowanie: 4.91821
+kto dzis kupuje: 6
+
+ktoKupuje: 6
+zjedzone:     1 2 2 2 1 2 2 2 2
+
+kupione:      9 0 0 0 0 0 7 0 0
+
+obliczDelty  -8 2 2 2 1 2 -5 2 2 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: 1 1 1 - 1 1 1 - 1
+delta (sort.) =   -8 -5 0 1 2 2 2 
+wagi:             0 9 73 154 254 354 454 
+zakres: 454, losowanie: 329.288
+kto dzis kupuje: 2
+
+ktoKupuje: 2
+zjedzone:     2 3 3 2 2 3 3 2 3
+
+kupione:      9 0 7 0 0 0 7 0 0
+
+obliczDelty  -7 3 -4 2 2 3 -4 2 3 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 0
+losujNieobecnych: 1 1 1 1 1 1 1 1 1
+delta (sort.) =   -7 -4 -4 2 2 2 3 3 3 
+wagi:             0 9 18 99 180 261 361 461 561 
+zakres: 561, losowanie: 501.317
+kto dzis kupuje: 8
+
+ktoKupuje: 8
+zjedzone:     3 4 4 3 3 4 4 3 4
+
+kupione:      9 0 7 0 0 0 7 0 9
+
+obliczDelty  -6 4 -3 3 3 4 -3 3 -5 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 0
+losujNieobecnych: 1 1 1 1 1 1 1 1 1
+delta (sort.) =   -6 -5 -3 -3 3 3 3 4 4 
+wagi:             0 1 10 19 100 181 262 362 462 
+zakres: 462, losowanie: 244.162
+kto dzis kupuje: 7
+
+ktoKupuje: 7
+zjedzone:     4 5 5 4 4 5 5 4 5
+
+kupione:      9 0 7 0 0 0 7 9 9
+
+obliczDelty  -5 5 -2 4 4 5 -2 -5 -4 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 3
+losujNieobecnych: 1 - 1 1 - - 1 1 1
+delta (sort.) =   -5 -2 0 0 0 4 
+wagi:             0 9 34 59 84 165 
+zakres: 165, losowanie: 12.5788
+kto dzis kupuje: 0
+
+ktoKupuje: 0
+zjedzone:     5 5 6 5 4 5 6 5 6
+
+kupione:      15 0 7 0 0 0 7 9 9
+
+obliczDelty  -10 5 -1 5 4 5 -1 -4 -3 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 3
+losujNieobecnych: - - - 1 1 1 1 1 1
+delta (sort.) =   0 0 0 4 5 5 
+wagi:             0 0 0 16 41 66 
+zakres: 66, losowanie: 63.0391
+kto dzis kupuje: 5
+
+ktoKupuje: 5
+zjedzone:     5 5 6 6 5 6 7 6 7
+
+kupione:      15 0 7 0 0 6 7 9 9
+
+obliczDelty  -10 5 -1 6 5 0 0 -3 -2 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 3
+losujNieobecnych: - - 1 1 1 1 1 - 1
+delta (sort.) =   -1 0 0 0 5 6 
+wagi:             0 1 2 3 39 88 
+zakres: 88, losowanie: 4.28626
+kto dzis kupuje: 4
+
+ktoKupuje: 4
+zjedzone:     5 5 7 7 6 7 8 6 8
+
+kupione:      15 0 7 0 6 6 7 9 9
+
+obliczDelty  -10 5 0 7 0 1 1 -3 -1 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 0
+losujNieobecnych: 1 1 1 1 1 1 1 1 1
+delta (sort.) =   -10 -3 -1 0 0 1 1 5 7 
+wagi:             0 49 130 230 330 451 572 797 1086 
+zakres: 1086, losowanie: 438.45
+kto dzis kupuje: 5
+
+ktoKupuje: 5
+zjedzone:     6 6 8 8 7 8 9 7 9
+
+kupione:      15 0 7 0 6 15 7 9 9
+
+obliczDelty  -9 6 1 8 1 -7 2 -2 0 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: 1 - - 1 1 1 1 1 1
+delta (sort.) =   -9 -7 0 0 1 2 8 
+wagi:             0 4 85 166 266 387 676 
+zakres: 676, losowanie: 294.954
+kto dzis kupuje: 6
+
+ktoKupuje: 6
+zjedzone:     7 6 8 9 8 9 10 8 10
+
+kupione:      15 0 7 0 6 15 14 9 9
+
+obliczDelty  -8 6 1 9 2 -6 -4 -1 1 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: 1 1 - 1 1 1 1 1 -
+delta (sort.) =   -8 -6 -4 0 2 6 9 
+wagi:             0 4 20 84 184 380 669 
+zakres: 669, losowanie: 306.662
+kto dzis kupuje: 1
+
+ktoKupuje: 1
+zjedzone:     8 7 8 10 9 10 11 9 10
+
+kupione:      15 7 7 0 6 15 14 9 9
+
+obliczDelty  -7 0 1 10 3 -5 -3 0 1 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 0
+losujNieobecnych: 1 1 1 1 1 1 1 1 1
+delta (sort.) =   -7 -5 -3 0 0 1 1 3 10 
+wagi:             0 4 20 69 118 182 246 346 635 
+zakres: 635, losowanie: 465.18
+kto dzis kupuje: 3
+
+ktoKupuje: 3
+zjedzone:     9 8 9 11 10 11 12 10 11
+
+kupione:      15 7 7 9 6 15 14 9 9
+
+obliczDelty  -6 1 2 2 4 -4 -2 1 2 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: 1 1 1 1 1 1 1 - -
+delta (sort.) =   -6 -4 -2 1 2 2 4 
+wagi:             0 4 20 69 133 197 297 
+zakres: 297, losowanie: 124.775
+kto dzis kupuje: 2
+
+ktoKupuje: 2
+zjedzone:     10 9 10 12 11 12 13 10 11
+
+kupione:      15 7 14 9 6 15 14 9 9
+
+obliczDelty  -5 2 -4 3 5 -3 -1 1 2 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: - - 1 1 1 1 1 1 1
+delta (sort.) =   -4 -3 -1 0 0 3 5 
+wagi:             0 1 10 26 42 91 172 
+zakres: 172, losowanie: 104.459
+kto dzis kupuje: 4
+
+ktoKupuje: 4
+zjedzone:     10 9 11 13 12 13 14 11 12
+
+kupione:      15 7 14 9 13 15 14 9 9
+
+obliczDelty  -5 2 -3 4 -1 -2 0 2 3 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 1
+losujNieobecnych: 1 1 1 - 1 1 1 1 1
+delta (sort.) =   -5 -3 -2 -1 0 0 2 2 
+wagi:             0 4 13 29 54 79 128 177 
+zakres: 177, losowanie: 39.9083
+kto dzis kupuje: 0
+
+ktoKupuje: 0
+zjedzone:     11 10 12 13 13 14 15 12 13
+
+kupione:      23 7 14 9 13 15 14 9 9
+
+obliczDelty  -12 3 -2 4 0 -1 1 3 4 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: 1 1 1 1 1 1 1 - -
+delta (sort.) =   -12 -2 -1 0 1 3 4 
+wagi:             0 100 221 365 534 759 1015 
+zakres: 1015, losowanie: 627.115
+kto dzis kupuje: 1
+
+ktoKupuje: 1
+zjedzone:     12 11 13 14 14 15 16 12 13
+
+kupione:      23 14 14 9 13 15 14 9 9
+
+obliczDelty  -11 -3 -1 5 1 0 2 3 4 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 3
+losujNieobecnych: - 1 - 1 1 1 1 - 1
+delta (sort.) =   -3 0 0 0 1 5 
+wagi:             0 9 18 27 43 107 
+zakres: 107, losowanie: 59.2162
+kto dzis kupuje: 3
+
+ktoKupuje: 3
+zjedzone:     12 12 13 15 15 16 17 12 14
+
+kupione:      23 14 14 15 13 15 14 9 9
+
+obliczDelty  -11 -2 -1 0 2 1 3 3 5 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 1
+losujNieobecnych: 1 - 1 1 1 1 1 1 1
+delta (sort.) =   -11 -1 0 0 1 2 3 3 
+wagi:             0 100 221 342 486 655 851 1047 
+zakres: 1047, losowanie: 188.682
+kto dzis kupuje: 0
+
+ktoKupuje: 0
+zjedzone:     13 12 14 16 16 17 18 13 15
+
+kupione:      31 14 14 15 13 15 14 9 9
+
+obliczDelty  -18 -2 0 1 3 2 4 4 6 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: 1 1 1 - 1 1 1 1 -
+delta (sort.) =   -18 -2 0 0 2 3 4 
+wagi:             0 256 580 904 1304 1745 2229 
+zakres: 2229, losowanie: 1371.26
+kto dzis kupuje: 4
+
+ktoKupuje: 4
+zjedzone:     14 13 15 16 17 18 19 14 15
+
+kupione:      31 14 14 15 20 15 14 9 9
+
+obliczDelty  -17 -1 1 1 -3 3 5 5 6 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 0
+losujNieobecnych: 1 1 1 1 1 1 1 1 1
+delta (sort.) =   -17 -3 -1 1 1 3 5 5 6 
+wagi:             0 196 452 776 1100 1500 1984 2468 2997 
+zakres: 2997, losowanie: 2294.83
+kto dzis kupuje: 7
+
+ktoKupuje: 7
+zjedzone:     15 14 16 17 18 19 20 15 16
+
+kupione:      31 14 14 15 20 15 14 18 9
+
+obliczDelty  -16 0 2 2 -2 4 6 -3 7 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 1
+losujNieobecnych: 1 1 - 1 1 1 1 1 1
+delta (sort.) =   -16 -3 -2 0 0 2 4 6 
+wagi:             0 169 365 621 877 1201 1601 2085 
+zakres: 2085, losowanie: 1509.52
+kto dzis kupuje: 5
+
+ktoKupuje: 5
+zjedzone:     16 15 16 18 19 20 21 16 17
+
+kupione:      31 14 14 15 20 23 14 18 9
+
+obliczDelty  -15 1 2 3 -1 -3 7 -2 8 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 1
+losujNieobecnych: 1 1 1 1 1 1 1 1 -
+delta (sort.) =   -15 -3 -2 -1 1 2 3 7 
+wagi:             0 144 313 509 765 1054 1378 1862 
+zakres: 1862, losowanie: 978.478
+kto dzis kupuje: 2
+
+ktoKupuje: 2
+zjedzone:     17 16 17 19 20 21 22 17 17
+
+kupione:      31 14 22 15 20 23 14 18 9
+
+obliczDelty  -14 2 -5 4 0 -2 8 -1 8 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: - 1 1 1 1 1 1 1 -
+delta (sort.) =   -5 -2 0 0 2 4 8 
+wagi:             0 9 34 59 108 189 358 
+zakres: 358, losowanie: 248.329
+kto dzis kupuje: 6
+
+ktoKupuje: 6
+zjedzone:     17 17 18 20 21 22 23 18 17
+
+kupione:      31 14 22 15 20 23 21 18 9
+
+obliczDelty  -14 3 -4 5 1 -1 2 0 8 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 0
+losujNieobecnych: 1 1 1 1 1 1 1 1 1
+delta (sort.) =   -14 -4 -1 0 1 2 3 5 8 
+wagi:             0 100 269 465 690 946 1235 1596 2080 
+zakres: 2080, losowanie: 349.132
+kto dzis kupuje: 7
+
+ktoKupuje: 7
+zjedzone:     18 18 19 21 22 23 24 19 18
+
+kupione:      31 14 22 15 20 23 21 27 9
+
+obliczDelty  -13 4 -3 6 2 0 3 -8 9 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 1
+losujNieobecnych: 1 1 - 1 1 1 1 1 1
+delta (sort.) =   -13 -8 0 0 2 3 4 6 
+wagi:             0 25 194 363 588 844 1133 1494 
+zakres: 1494, losowanie: 1076.85
+kto dzis kupuje: 1
+
+ktoKupuje: 1
+zjedzone:     19 19 19 22 23 24 25 20 19
+
+kupione:      31 22 22 15 20 23 21 27 9
+
+obliczDelty  -12 -3 -3 7 3 1 4 -7 10 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 3
+losujNieobecnych: 1 1 - 1 1 1 1 - -
+delta (sort.) =   -12 -3 0 1 3 7 
+wagi:             0 81 225 394 619 980 
+zakres: 980, losowanie: 410.818
+kto dzis kupuje: 4
+
+ktoKupuje: 4
+zjedzone:     20 20 19 23 24 25 26 20 19
+
+kupione:      31 22 22 15 26 23 21 27 9
+
+obliczDelty  -11 -2 -3 8 -2 2 5 -7 10 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 0
+losujNieobecnych: 1 1 1 1 1 1 1 1 1
+delta (sort.) =   -11 -7 -3 -2 -2 2 5 8 10 
+wagi:             0 16 80 161 242 411 667 1028 1469 
+zakres: 1469, losowanie: 564.162
+kto dzis kupuje: 6
+
+ktoKupuje: 6
+zjedzone:     21 21 20 24 25 26 27 21 20
+
+kupione:      31 22 22 15 26 23 30 27 9
+
+obliczDelty  -10 -1 -2 9 -1 3 -3 -6 11 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 0
+losujNieobecnych: 1 1 1 1 1 1 1 1 1
+delta (sort.) =   -10 -6 -3 -2 -1 -1 3 9 11 
+wagi:             0 16 65 129 210 291 460 821 1262 
+zakres: 1262, losowanie: 1016.93
+kto dzis kupuje: 8
+
+ktoKupuje: 8
+zjedzone:     22 22 21 25 26 27 28 22 21
+
+kupione:      31 22 22 15 26 23 30 27 18
+
+obliczDelty  -9 0 -1 10 0 4 -2 -5 3 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 1
+losujNieobecnych: 1 1 1 1 1 - 1 1 1
+delta (sort.) =   -9 -5 -2 -1 0 0 0 10 
+wagi:             0 16 65 129 210 291 372 733 
+zakres: 733, losowanie: 515.787
+kto dzis kupuje: 3
+
+ktoKupuje: 3
+zjedzone:     23 23 22 26 27 27 29 23 22
+
+kupione:      31 22 22 23 26 23 30 27 18
+
+obliczDelty  -8 1 0 3 1 4 -1 -4 4 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 0
+losujNieobecnych: 1 1 1 1 1 1 1 1 1
+delta (sort.) =   -8 -4 -1 0 1 1 3 4 4 
+wagi:             0 16 65 129 210 291 412 556 700 
+zakres: 700, losowanie: 552.083
+kto dzis kupuje: 5
+
+ktoKupuje: 5
+zjedzone:     24 24 23 27 28 28 30 24 23
+
+kupione:      31 22 22 23 26 32 30 27 18
+
+obliczDelty  -7 2 1 4 2 -4 0 -3 5 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 0
+losujNieobecnych: 1 1 1 1 1 1 1 1 1
+delta (sort.) =   -7 -4 -3 0 1 2 2 4 5 
+wagi:             0 9 25 74 138 219 300 421 565 
+zakres: 565, losowanie: 82.6972
+kto dzis kupuje: 2
+
+ktoKupuje: 2
+zjedzone:     25 25 24 28 29 29 31 25 24
+
+kupione:      31 22 31 23 26 32 30 27 18
+
+obliczDelty  -6 3 -7 5 3 -3 1 -2 6 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 3
+losujNieobecnych: - 1 - 1 1 1 1 - 1
+delta (sort.) =   0 -3 0 3 3 5 
+wagi:             0 9 9 18 27 52 
+zakres: 52, losowanie: 16.9662
+kto dzis kupuje: 1
+
+ktoKupuje: 1
+zjedzone:     25 26 24 29 30 30 32 25 25
+
+kupione:      31 28 31 23 26 32 30 27 18
+
+obliczDelty  -6 -2 -7 6 4 -2 2 -2 7 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 0
+losujNieobecnych: 1 1 1 1 1 1 1 1 1
+delta (sort.) =   -7 -6 -2 -2 -2 2 4 6 7 
+wagi:             0 1 26 51 76 157 278 447 643 
+zakres: 643, losowanie: 562.328
+kto dzis kupuje: 8
+
+ktoKupuje: 8
+zjedzone:     26 27 25 30 31 31 33 26 26
+
+kupione:      31 28 31 23 26 32 30 27 27
+
+obliczDelty  -5 -1 -6 7 5 -1 3 -1 -1 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 3
+losujNieobecnych: 1 1 - 1 1 - - 1 1
+delta (sort.) =   -5 -1 0 0 5 7 
+wagi:             0 16 41 66 166 310 
+zakres: 310, losowanie: 308.581
+kto dzis kupuje: 3
+
+ktoKupuje: 3
+zjedzone:     27 28 25 31 32 31 33 27 27
+
+kupione:      31 28 31 29 26 32 30 27 27
+
+obliczDelty  -4 0 -6 2 6 -1 3 0 0 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 3
+losujNieobecnych: - 1 - 1 1 1 1 1 -
+delta (sort.) =   0 -1 0 0 2 6 
+wagi:             0 1 1 1 5 41 
+zakres: 41, losowanie: 40.0853
+kto dzis kupuje: 4
+
+ktoKupuje: 4
+zjedzone:     27 29 25 32 33 32 34 28 27
+
+kupione:      31 28 31 29 32 32 30 27 27
+
+obliczDelty  -4 1 -6 3 1 0 4 1 0 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 0
+losujNieobecnych: 1 1 1 1 1 1 1 1 1
+delta (sort.) =   -6 -4 0 0 1 1 1 3 4 
+wagi:             0 4 40 76 125 174 223 304 404 
+zakres: 404, losowanie: 264.023
+kto dzis kupuje: 3
+
+ktoKupuje: 3
+zjedzone:     28 30 26 33 34 33 35 29 28
+
+kupione:      31 28 31 38 32 32 30 27 27
+
+obliczDelty  -3 2 -5 -5 2 1 5 2 1 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: 1 - 1 1 1 - 1 1 1
+delta (sort.) =   -5 -5 -3 0 0 2 5 
+wagi:             0 0 4 29 54 103 203 
+zakres: 203, losowanie: 186.682
+kto dzis kupuje: 6
+
+ktoKupuje: 6
+zjedzone:     29 30 27 34 35 33 36 30 29
+
+kupione:      31 28 31 38 32 32 37 27 27
+
+obliczDelty  -2 2 -4 -4 3 1 -1 3 2 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: 1 1 - 1 - 1 1 1 1
+delta (sort.) =   -4 -2 -1 0 0 1 2 
+wagi:             0 4 13 29 45 70 106 
+zakres: 106, losowanie: 19.5845
+kto dzis kupuje: 0
+
+ktoKupuje: 0
+zjedzone:     30 31 27 35 35 34 37 31 30
+
+kupione:      38 28 31 38 32 32 37 27 27
+
+obliczDelty  -8 3 -4 -3 3 2 0 4 3 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 3
+losujNieobecnych: 1 1 - - 1 - 1 1 1
+delta (sort.) =   -8 0 0 0 3 3 
+wagi:             0 64 128 192 313 434 
+zakres: 434, losowanie: 374.397
+kto dzis kupuje: 4
+
+ktoKupuje: 4
+zjedzone:     31 32 27 35 36 34 38 32 31
+
+kupione:      38 28 31 38 38 32 37 27 27
+
+obliczDelty  -7 4 -4 -3 -2 2 1 5 4 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: 1 - 1 1 - 1 1 1 1
+delta (sort.) =   -7 -4 -3 0 0 1 2 
+wagi:             0 9 25 74 123 187 268 
+zakres: 268, losowanie: 36.0529
+kto dzis kupuje: 0
+
+ktoKupuje: 0
+zjedzone:     32 32 28 36 36 35 39 33 32
+
+kupione:      45 28 31 38 38 32 37 27 27
+
+obliczDelty  -13 4 -3 -2 -2 3 2 6 5 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 3
+losujNieobecnych: - 1 1 1 1 1 1 - -
+delta (sort.) =   -3 -2 -2 0 3 4 
+wagi:             0 1 2 11 47 96 
+zakres: 96, losowanie: 1.85162
+kto dzis kupuje: 4
+
+ktoKupuje: 4
+zjedzone:     32 33 29 37 37 36 40 33 32
+
+kupione:      45 28 31 38 44 32 37 27 27
+
+obliczDelty  -13 5 -2 -1 -7 4 3 6 5 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: 1 1 - - 1 1 1 1 1
+delta (sort.) =   -13 -7 0 0 3 4 5 
+wagi:             0 36 205 374 630 919 1243 
+zakres: 1243, losowanie: 91.0428
+kto dzis kupuje: 0
+
+ktoKupuje: 0
+zjedzone:     33 34 29 37 38 37 41 34 33
+
+kupione:      52 28 31 38 44 32 37 27 27
+
+obliczDelty  -19 6 -2 -1 -6 5 4 7 6 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 0
+losujNieobecnych: 1 1 1 1 1 1 1 1 1
+delta (sort.) =   -19 -6 -2 -1 4 5 6 6 7 
+wagi:             0 169 458 782 1311 1887 2512 3137 3813 
+zakres: 3813, losowanie: 183.395
+kto dzis kupuje: 2
+
+ktoKupuje: 2
+zjedzone:     34 35 30 38 39 38 42 35 34
+
+kupione:      52 28 40 38 44 32 37 27 27
+
+obliczDelty  -18 7 -10 0 -5 6 5 8 7 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 3
+losujNieobecnych: 1 1 - 1 1 1 - 1 -
+delta (sort.) =   -18 -5 0 0 6 7 
+wagi:             0 169 493 817 1393 2018 
+zakres: 2018, losowanie: 1789.02
+kto dzis kupuje: 1
+
+ktoKupuje: 1
+zjedzone:     35 36 30 39 40 39 42 36 34
+
+kupione:      52 34 40 38 44 32 37 27 27
+
+obliczDelty  -17 2 -10 1 -4 7 5 9 7 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 3
+losujNieobecnych: 1 - - 1 1 1 1 1 -
+delta (sort.) =   -17 -4 0 0 1 7 
+wagi:             0 169 458 747 1071 1647 
+zakres: 1647, losowanie: 692.99
+kto dzis kupuje: 0
+
+ktoKupuje: 0
+zjedzone:     36 36 30 40 41 40 43 37 34
+
+kupione:      58 34 40 38 44 32 37 27 27
+
+obliczDelty  -22 2 -10 2 -3 8 6 10 7 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 0
+losujNieobecnych: 1 1 1 1 1 1 1 1 1
+delta (sort.) =   -22 -10 -3 2 2 6 7 8 10 
+wagi:             0 144 505 1081 1657 2441 3282 4182 5206 
+zakres: 5206, losowanie: 1133.76
+kto dzis kupuje: 3
+
+ktoKupuje: 3
+zjedzone:     37 37 31 41 42 41 44 38 35
+
+kupione:      58 34 40 47 44 32 37 27 27
+
+obliczDelty  -21 3 -9 -6 -2 9 7 11 8 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 3
+losujNieobecnych: 1 1 1 1 1 1 - - -
+delta (sort.) =   -21 -9 -6 -2 3 9 
+wagi:             0 144 369 730 1306 2206 
+zakres: 2206, losowanie: 652.839
+kto dzis kupuje: 4
+
+ktoKupuje: 4
+zjedzone:     38 38 32 42 43 42 44 38 35
+
+kupione:      58 34 40 47 50 32 37 27 27
+
+obliczDelty  -20 4 -8 -5 -7 10 7 11 8 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 3
+losujNieobecnych: 1 1 1 1 - - - 1 1
+delta (sort.) =   -20 -8 -5 0 0 4 
+wagi:             0 144 369 769 1169 1745 
+zakres: 1745, losowanie: 1205.64
+kto dzis kupuje: 1
+
+ktoKupuje: 1
+zjedzone:     39 39 33 43 43 42 44 39 36
+
+kupione:      58 40 40 47 50 32 37 27 27
+
+obliczDelty  -19 -1 -7 -4 -7 10 7 12 9 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 1
+losujNieobecnych: 1 1 1 1 - 1 1 1 1
+delta (sort.) =   -19 -7 -4 -1 0 7 10 12 
+wagi:             0 144 369 693 1054 1730 2571 3532 
+zakres: 3532, losowanie: 3333.34
+kto dzis kupuje: 7
+
+ktoKupuje: 7
+zjedzone:     40 40 34 44 43 43 45 40 37
+
+kupione:      58 40 40 47 50 32 37 35 27
+
+obliczDelty  -18 0 -6 -3 -7 11 8 5 10 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 0
+losujNieobecnych: 1 1 1 1 1 1 1 1 1
+delta (sort.) =   -18 -7 -6 -3 0 5 8 10 11 
+wagi:             0 121 265 490 814 1343 2019 2803 3644 
+zakres: 3644, losowanie: 3140.89
+kto dzis kupuje: 5
+
+ktoKupuje: 5
+zjedzone:     41 41 35 45 44 44 46 41 38
+
+kupione:      58 40 40 47 50 41 37 35 27
+
+obliczDelty  -17 1 -5 -2 -6 3 9 6 11 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 0
+losujNieobecnych: 1 1 1 1 1 1 1 1 1
+delta (sort.) =   -17 -6 -5 -2 1 3 6 9 11 
+wagi:             0 121 265 490 814 1214 1743 2419 3203 
+zakres: 3203, losowanie: 2631.35
+kto dzis kupuje: 8
+
+ktoKupuje: 8
+zjedzone:     42 42 36 46 45 45 47 42 39
+
+kupione:      58 40 40 47 50 41 37 35 36
+
+obliczDelty  -16 2 -4 -1 -5 4 10 7 3 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 1
+losujNieobecnych: 1 1 - 1 1 1 1 1 1
+delta (sort.) =   -16 -5 -1 0 2 4 7 10 
+wagi:             0 121 346 602 926 1326 1855 2531 
+zakres: 2531, losowanie: 2220.95
+kto dzis kupuje: 6
+
+ktoKupuje: 6
+zjedzone:     43 43 36 47 46 46 48 43 40
+
+kupione:      58 40 40 47 50 41 45 35 36
+
+obliczDelty  -15 3 -4 0 -4 5 3 8 4 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 3
+losujNieobecnych: 1 1 - 1 1 1 - 1 -
+delta (sort.) =   -15 -4 0 0 3 5 
+wagi:             0 121 346 571 895 1295 
+zakres: 1295, losowanie: 541.286
+kto dzis kupuje: 3
+
+ktoKupuje: 3
+zjedzone:     44 44 36 48 47 47 48 44 40
+
+kupione:      58 40 40 53 50 41 45 35 36
+
+obliczDelty  -14 4 -4 -5 -3 6 3 9 4 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 0
+losujNieobecnych: 1 1 1 1 1 1 1 1 1
+delta (sort.) =   -14 -5 -4 -3 3 4 4 6 9 
+wagi:             0 81 181 302 591 915 1239 1639 2168 
+zakres: 2168, losowanie: 801.843
+kto dzis kupuje: 1
+
+ktoKupuje: 1
+zjedzone:     45 45 37 49 48 48 49 45 41
+
+kupione:      58 49 40 53 50 41 45 35 36
+
+obliczDelty  -13 -4 -3 -4 -2 7 4 10 5 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: 1 1 1 1 1 1 - - 1
+delta (sort.) =   -13 -4 -4 -3 -2 0 7 
+wagi:             0 81 162 262 383 552 952 
+zakres: 952, losowanie: 503.441
+kto dzis kupuje: 0
+
+ktoKupuje: 0
+zjedzone:     46 46 38 50 49 49 49 45 42
+
+kupione:      65 49 40 53 50 41 45 35 36
+
+obliczDelty  -19 -3 -2 -3 -1 8 4 10 6 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 1
+losujNieobecnych: 1 1 1 1 1 - 1 1 1
+delta (sort.) =   -19 -3 -3 -2 -1 0 4 10 
+wagi:             0 256 512 801 1125 1486 2015 2856 
+zakres: 2856, losowanie: 191.144
+kto dzis kupuje: 0
+
+ktoKupuje: 0
+zjedzone:     47 47 39 51 50 49 50 46 43
+
+kupione:      73 49 40 53 50 41 45 35 36
+
+obliczDelty  -26 -2 -1 -2 0 8 5 11 7 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 3
+losujNieobecnych: 1 1 - - 1 1 1 1 -
+delta (sort.) =   -26 -2 0 0 0 8 
+wagi:             0 576 1252 1928 2604 3760 
+zakres: 3760, losowanie: 3080.91
+kto dzis kupuje: 5
+
+ktoKupuje: 5
+zjedzone:     48 48 39 51 51 50 51 47 43
+
+kupione:      73 49 40 53 50 47 45 35 36
+
+obliczDelty  -25 -1 -1 -2 1 3 6 12 7 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 1
+losujNieobecnych: 1 1 1 1 1 1 1 - 1
+delta (sort.) =   -25 -2 -1 -1 0 1 3 6 
+wagi:             0 529 1105 1681 2306 2982 3766 4727 
+zakres: 4727, losowanie: 1749.89
+kto dzis kupuje: 0
+
+ktoKupuje: 0
+zjedzone:     49 49 40 52 52 51 52 47 44
+
+kupione:      81 49 40 53 50 47 45 35 36
+
+obliczDelty  -32 0 0 -1 2 4 7 12 8 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: 1 1 - 1 1 - 1 1 1
+delta (sort.) =   -32 -1 0 0 0 2 7 
+wagi:             0 961 1985 3009 4033 5189 6710 
+zakres: 6710, losowanie: 5853.61
+kto dzis kupuje: 6
+
+ktoKupuje: 6
+zjedzone:     50 50 40 53 53 51 53 48 45
+
+kupione:      81 49 40 53 50 47 52 35 36
+
+obliczDelty  -31 1 0 0 3 4 1 13 9 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 0
+losujNieobecnych: 1 1 1 1 1 1 1 1 1
+delta (sort.) =   -31 0 0 1 1 3 4 9 13 
+wagi:             0 961 1922 2946 3970 5126 6351 7951 9887 
+zakres: 9887, losowanie: 6055.55
+kto dzis kupuje: 5
+
+ktoKupuje: 5
+zjedzone:     51 51 41 54 54 52 54 49 46
+
+kupione:      81 49 40 53 50 56 52 35 36
+
+obliczDelty  -30 2 1 1 4 -4 2 14 10 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 3
+losujNieobecnych: - 1 1 - 1 1 1 1 -
+delta (sort.) =   0 -4 0 1 2 4 
+wagi:             0 16 16 17 21 37 
+zakres: 37, losowanie: 14.8081
+kto dzis kupuje: 0
+
+ktoKupuje: 0
+zjedzone:     51 52 42 54 55 53 55 50 46
+
+kupione:      87 49 40 53 50 56 52 35 36
+
+obliczDelty  -36 3 2 1 5 -3 3 15 10 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: 1 - 1 - 1 1 1 1 1
+delta (sort.) =   -36 -3 0 0 2 3 5 
+wagi:             0 1089 2385 3681 5125 6646 8327 
+zakres: 8327, losowanie: 7661.95
+kto dzis kupuje: 4
+
+ktoKupuje: 4
+zjedzone:     52 52 43 54 56 54 56 51 47
+
+kupione:      87 49 40 53 57 56 52 35 36
+
+obliczDelty  -35 3 3 1 -1 -2 4 16 11 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: 1 1 1 - - 1 1 1 1
+delta (sort.) =   -35 -2 0 0 3 3 4 
+wagi:             0 1089 2314 3539 4983 6427 7948 
+zakres: 7948, losowanie: 3198.41
+kto dzis kupuje: 0
+
+ktoKupuje: 0
+zjedzone:     53 53 44 54 56 55 57 52 48
+
+kupione:      94 49 40 53 57 56 52 35 36
+
+obliczDelty  -41 4 4 1 -1 -1 5 17 12 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 3
+losujNieobecnych: - - - 1 1 1 1 1 1
+delta (sort.) =   -1 -1 0 0 0 1 
+wagi:             0 0 1 2 3 7 
+zakres: 7, losowanie: 1.43153
+kto dzis kupuje: 0
+
+ktoKupuje: 0
+zjedzone:     53 53 44 55 57 56 58 53 49
+
+kupione:      100 49 40 53 57 56 52 35 36
+
+obliczDelty  -47 4 4 2 0 0 6 18 13 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: - 1 1 1 - 1 1 1 1
+delta (sort.) =   0 0 0 2 4 4 6 
+wagi:             0 0 0 4 20 36 72 
+zakres: 72, losowanie: 14.3881
+kto dzis kupuje: 1
+
+ktoKupuje: 1
+zjedzone:     53 54 45 56 57 57 59 54 50
+
+kupione:      100 56 40 53 57 56 52 35 36
+
+obliczDelty  -47 -2 5 3 0 1 7 19 14 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 1
+losujNieobecnych: - 1 1 1 1 1 1 1 1
+delta (sort.) =   -2 0 0 1 3 5 7 19 
+wagi:             0 4 8 17 42 91 172 613 
+zakres: 613, losowanie: 341.306
+kto dzis kupuje: 7
+
+ktoKupuje: 7
+zjedzone:     53 55 46 57 58 58 60 55 51
+
+kupione:      100 56 40 53 57 56 52 43 36
+
+obliczDelty  -47 -1 6 4 1 2 8 12 15 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: 1 1 1 - 1 - 1 1 1
+delta (sort.) =   -47 -1 0 0 1 6 8 
+wagi:             0 2116 4325 6534 8838 11647 14672 
+zakres: 14672, losowanie: 6818.6
+kto dzis kupuje: 4
+
+ktoKupuje: 4
+zjedzone:     54 56 47 57 59 58 61 56 52
+
+kupione:      100 56 40 53 64 56 52 43 36
+
+obliczDelty  -46 0 7 4 -5 2 9 13 16 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 1
+losujNieobecnych: 1 1 1 1 1 1 1 1 -
+delta (sort.) =   -46 -5 0 2 4 7 9 13 
+wagi:             0 1681 3797 6101 8601 11410 14435 17916 
+zakres: 17916, losowanie: 12793.3
+kto dzis kupuje: 6
+
+ktoKupuje: 6
+zjedzone:     55 57 48 58 60 59 62 57 52
+
+kupione:      100 56 40 53 64 56 60 43 36
+
+obliczDelty  -45 1 8 5 -4 3 2 14 16 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: 1 1 1 - - 1 1 1 1
+delta (sort.) =   -45 0 0 1 2 3 8 
+wagi:             0 2025 4050 6166 8375 10679 13488 
+zakres: 13488, losowanie: 10738.7
+kto dzis kupuje: 2
+
+ktoKupuje: 2
+zjedzone:     56 58 49 58 60 60 63 58 53
+
+kupione:      100 56 47 53 64 56 60 43 36
+
+obliczDelty  -44 2 2 5 -4 4 3 15 17 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 1
+losujNieobecnych: 1 1 1 - 1 1 1 1 1
+delta (sort.) =   -44 -4 0 2 2 3 4 15 
+wagi:             0 1600 3536 5652 7768 9977 12281 15762 
+zakres: 15762, losowanie: 4764.15
+kto dzis kupuje: 1
+
+ktoKupuje: 1
+zjedzone:     57 59 50 58 61 61 64 59 54
+
+kupione:      100 64 47 53 64 56 60 43 36
+
+obliczDelty  -43 -5 3 5 -3 5 4 16 18 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: - 1 1 1 - 1 1 1 1
+delta (sort.) =   -5 0 0 3 4 5 5 
+wagi:             0 25 50 114 195 295 395 
+zakres: 395, losowanie: 101.164
+kto dzis kupuje: 2
+
+ktoKupuje: 2
+zjedzone:     57 60 51 59 61 62 65 60 55
+
+kupione:      100 64 54 53 64 56 60 43 36
+
+obliczDelty  -43 -4 -3 6 -3 6 5 17 19 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 0
+losujNieobecnych: 1 1 1 1 1 1 1 1 1
+delta (sort.) =   -43 -4 -3 -3 5 6 6 17 19 
+wagi:             0 1521 3121 4721 7025 9426 11827 15427 19271 
+zakres: 19271, losowanie: 9782.24
+kto dzis kupuje: 5
+
+ktoKupuje: 5
+zjedzone:     58 61 52 60 62 63 66 61 56
+
+kupione:      100 64 54 53 64 65 60 43 36
+
+obliczDelty  -42 -3 -2 7 -2 -2 6 18 20 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 0
+losujNieobecnych: 1 1 1 1 1 1 1 1 1
+delta (sort.) =   -42 -3 -2 -2 -2 6 7 18 20 
+wagi:             0 1521 3121 4721 6321 8625 11026 14626 18470 
+zakres: 18470, losowanie: 1954.83
+kto dzis kupuje: 2
+
+ktoKupuje: 2
+zjedzone:     59 62 53 61 63 64 67 62 57
+
+kupione:      100 64 63 53 64 65 60 43 36
+
+obliczDelty  -41 -2 -10 8 -1 -1 7 19 21 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: 1 1 1 1 - 1 1 - 1
+delta (sort.) =   -41 -10 -2 -1 0 7 8 
+wagi:             0 961 2482 4082 5763 8067 10468 
+zakres: 10468, losowanie: 741.485
+kto dzis kupuje: 0
+
+ktoKupuje: 0
+zjedzone:     60 63 54 62 63 65 68 62 58
+
+kupione:      107 64 63 53 64 65 60 43 36
+
+obliczDelty  -47 -1 -9 9 -1 0 8 19 22 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 1
+losujNieobecnych: 1 1 1 - 1 1 1 1 1
+delta (sort.) =   -47 -9 -1 -1 0 0 8 19 
+wagi:             0 1444 3560 5676 7885 10094 13119 17475 
+zakres: 17475, losowanie: 8226.32
+kto dzis kupuje: 5
+
+ktoKupuje: 5
+zjedzone:     61 64 55 62 64 66 69 63 59
+
+kupione:      107 64 63 53 64 73 60 43 36
+
+obliczDelty  -46 0 -8 9 0 -7 9 20 23 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: 1 1 - 1 1 - 1 1 1
+delta (sort.) =   -46 0 0 0 0 9 9 
+wagi:             0 2116 4232 6348 8464 11489 14514 
+zakres: 14514, losowanie: 4326.69
+kto dzis kupuje: 4
+
+ktoKupuje: 4
+zjedzone:     62 65 55 63 65 66 70 64 60
+
+kupione:      107 64 63 53 71 73 60 43 36
+
+obliczDelty  -45 1 -8 10 -6 -7 10 21 24 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 1
+losujNieobecnych: 1 1 - 1 1 1 1 1 1
+delta (sort.) =   -45 -7 -6 0 1 10 10 21 
+wagi:             0 1444 2965 4990 7106 10131 13156 17512 
+zakres: 17512, losowanie: 16407.3
+kto dzis kupuje: 7
+
+ktoKupuje: 7
+zjedzone:     63 66 55 64 66 67 71 65 61
+
+kupione:      107 64 63 53 71 73 60 51 36
+
+obliczDelty  -44 2 -8 11 -5 -6 11 14 25 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 1
+losujNieobecnych: 1 - 1 1 1 1 1 1 1
+delta (sort.) =   -44 -8 -6 -5 0 11 11 14 
+wagi:             0 1296 2740 4261 6197 9222 12247 15611 
+zakres: 15611, losowanie: 5317.85
+kto dzis kupuje: 0
+
+ktoKupuje: 0
+zjedzone:     64 66 56 65 67 68 72 66 62
+
+kupione:      115 64 63 53 71 73 60 51 36
+
+obliczDelty  -51 2 -7 12 -4 -5 12 15 26 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 3
+losujNieobecnych: 1 1 1 - 1 1 1 - -
+delta (sort.) =   -51 -7 -5 -4 0 2 
+wagi:             0 1936 4052 6261 8862 11671 
+zakres: 11671, losowanie: 10263.7
+kto dzis kupuje: 1
+
+ktoKupuje: 1
+zjedzone:     65 67 57 65 68 69 73 66 62
+
+kupione:      115 70 63 53 71 73 60 51 36
+
+obliczDelty  -50 -3 -6 12 -3 -4 13 15 26 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 0
+losujNieobecnych: 1 1 1 1 1 1 1 1 1
+delta (sort.) =   -50 -6 -4 -3 -3 12 13 15 26 
+wagi:             0 1936 4052 6261 8470 12314 16283 20508 26284 
+zakres: 26284, losowanie: 6245.53
+kto dzis kupuje: 1
+
+ktoKupuje: 1
+zjedzone:     66 68 58 66 69 70 74 67 63
+
+kupione:      115 79 63 53 71 73 60 51 36
+
+obliczDelty  -49 -11 -5 13 -2 -3 14 16 27 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 1
+losujNieobecnych: 1 1 1 1 1 1 1 - 1
+delta (sort.) =   -49 -11 -5 -3 -2 0 13 14 
+wagi:             0 1444 3380 5496 7705 10106 13950 17919 
+zakres: 17919, losowanie: 5634.31
+kto dzis kupuje: 4
+
+ktoKupuje: 4
+zjedzone:     67 69 59 67 70 71 75 67 64
+
+kupione:      115 79 63 53 79 73 60 51 36
+
+obliczDelty  -48 -10 -4 14 -9 -2 15 16 28 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 3
+losujNieobecnych: 1 - 1 1 - 1 1 - 1
+delta (sort.) =   -48 -4 -2 0 0 14 
+wagi:             0 1936 4052 6356 8660 12504 
+zakres: 12504, losowanie: 11598.1
+kto dzis kupuje: 3
+
+ktoKupuje: 3
+zjedzone:     68 69 60 68 70 72 76 67 65
+
+kupione:      115 79 63 59 79 73 60 51 36
+
+obliczDelty  -47 -10 -3 9 -9 -1 16 16 29 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 3
+losujNieobecnych: - 1 - 1 1 1 1 1 -
+delta (sort.) =   -10 -9 -1 0 0 9 
+wagi:             0 1 82 182 282 643 
+zakres: 643, losowanie: 222.353
+kto dzis kupuje: 0
+
+ktoKupuje: 0
+zjedzone:     68 70 60 69 71 73 77 68 65
+
+kupione:      121 79 63 59 79 73 60 51 36
+
+obliczDelty  -53 -9 -3 10 -8 0 17 17 29 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 0
+losujNieobecnych: 1 1 1 1 1 1 1 1 1
+delta (sort.) =   -53 -9 -8 -3 0 10 17 17 29 
+wagi:             0 1936 3961 6461 9270 13239 18139 23039 29763 
+zakres: 29763, losowanie: 462.336
+kto dzis kupuje: 0
+
+ktoKupuje: 0
+zjedzone:     69 71 61 70 72 74 78 69 66
+
+kupione:      130 79 63 59 79 73 60 51 36
+
+obliczDelty  -61 -8 -2 11 -7 1 18 18 30 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 3
+losujNieobecnych: 1 - 1 1 - 1 1 1 -
+delta (sort.) =   -61 -2 0 0 1 11 
+wagi:             0 3481 7202 10923 14767 19951 
+zakres: 19951, losowanie: 8874.35
+kto dzis kupuje: 0
+
+ktoKupuje: 0
+zjedzone:     70 71 62 71 72 75 79 70 66
+
+kupione:      136 79 63 59 79 73 60 51 36
+
+obliczDelty  -66 -8 -1 12 -7 2 19 19 30 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: 1 - 1 1 - 1 1 1 1
+delta (sort.) =   -66 -1 0 0 2 12 19 
+wagi:             0 4225 8581 12937 17561 23645 30870 
+zakres: 30870, losowanie: 22895.1
+kto dzis kupuje: 3
+
+ktoKupuje: 3
+zjedzone:     71 71 63 72 72 76 80 71 67
+
+kupione:      136 79 63 66 79 73 60 51 36
+
+obliczDelty  -65 -8 0 6 -7 3 20 20 31 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: - 1 1 - 1 1 1 1 1
+delta (sort.) =   -8 -7 0 0 0 3 20 
+wagi:             0 1 65 129 193 314 1098 
+zakres: 1098, losowanie: 999.65
+kto dzis kupuje: 6
+
+ktoKupuje: 6
+zjedzone:     71 72 64 72 73 77 81 72 68
+
+kupione:      136 79 63 66 79 73 67 51 36
+
+obliczDelty  -65 -7 1 6 -6 4 14 21 32 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: 1 - 1 1 1 1 1 - 1
+delta (sort.) =   -65 -6 0 1 4 6 14 
+wagi:             0 3481 7706 12062 16823 21864 28105 
+zakres: 28105, losowanie: 25067.8
+kto dzis kupuje: 6
+
+ktoKupuje: 6
+zjedzone:     72 72 65 73 74 78 82 72 69
+
+kupione:      136 79 63 66 79 73 74 51 36
+
+obliczDelty  -64 -7 2 7 -5 5 8 21 33 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 1
+losujNieobecnych: - 1 1 1 1 1 1 1 1
+delta (sort.) =   -7 -5 0 2 5 7 8 21 
+wagi:             0 4 53 134 278 474 699 1483 
+zakres: 1483, losowanie: 383.841
+kto dzis kupuje: 3
+
+ktoKupuje: 3
+zjedzone:     72 73 66 74 75 79 83 73 70
+
+kupione:      136 79 63 74 79 73 74 51 36
+
+obliczDelty  -64 -6 3 0 -4 6 9 22 34 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 1
+losujNieobecnych: 1 1 1 - 1 1 1 1 1
+delta (sort.) =   -64 -6 -4 0 3 6 9 22 
+wagi:             0 3364 6964 11060 15549 20449 25778 33174 
+zakres: 33174, losowanie: 12668.4
+kto dzis kupuje: 2
+
+ktoKupuje: 2
+zjedzone:     73 74 67 74 76 80 84 74 71
+
+kupione:      136 79 71 74 79 73 74 51 36
+
+obliczDelty  -63 -5 -4 0 -3 7 10 23 35 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 3
+losujNieobecnych: 1 1 - - 1 1 1 1 -
+delta (sort.) =   -63 -5 -3 0 0 7 
+wagi:             0 3364 6964 10933 14902 19802 
+zakres: 19802, losowanie: 11211.5
+kto dzis kupuje: 0
+
+ktoKupuje: 0
+zjedzone:     74 75 67 74 77 81 85 75 71
+
+kupione:      142 79 71 74 79 73 74 51 36
+
+obliczDelty  -68 -4 -4 0 -2 8 11 24 35 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: 1 1 - 1 1 - 1 1 1
+delta (sort.) =   -68 -4 -2 0 0 0 11 
+wagi:             0 4096 8452 13076 17700 22324 28565 
+zakres: 28565, losowanie: 17812.7
+kto dzis kupuje: 0
+
+ktoKupuje: 0
+zjedzone:     75 76 67 75 78 81 86 76 72
+
+kupione:      149 79 71 74 79 73 74 51 36
+
+obliczDelty  -74 -3 -4 1 -1 8 12 25 36 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 1
+losujNieobecnych: 1 1 1 1 - 1 1 1 1
+delta (sort.) =   -74 -4 -3 0 1 8 12 25 
+wagi:             0 4900 9941 15417 21042 27766 35162 44963 
+zakres: 44963, losowanie: 36576.1
+kto dzis kupuje: 7
+
+ktoKupuje: 7
+zjedzone:     76 77 68 76 78 82 87 77 73
+
+kupione:      149 79 71 74 79 73 74 59 36
+
+obliczDelty  -73 -2 -3 2 -1 9 13 18 37 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 0
+losujNieobecnych: 1 1 1 1 1 1 1 1 1
+delta (sort.) =   -73 -3 -2 -1 2 9 13 18 37 
+wagi:             0 4900 9941 15125 20750 27474 34870 43151 55251 
+zakres: 55251, losowanie: 22284.5
+kto dzis kupuje: 5
+
+ktoKupuje: 5
+zjedzone:     77 78 69 77 79 83 88 78 74
+
+kupione:      149 79 71 74 79 82 74 59 36
+
+obliczDelty  -72 -1 -2 3 0 1 14 19 38 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 1
+losujNieobecnych: 1 1 1 1 1 1 1 - 1
+delta (sort.) =   -72 -2 -1 0 0 1 3 14 
+wagi:             0 4900 9941 15125 20309 25638 31263 38659 
+zakres: 38659, losowanie: 21401.8
+kto dzis kupuje: 5
+
+ktoKupuje: 5
+zjedzone:     78 79 70 78 80 84 89 78 75
+
+kupione:      149 79 71 74 79 90 74 59 36
+
+obliczDelty  -71 0 -1 4 1 -6 15 19 39 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 0
+losujNieobecnych: 1 1 1 1 1 1 1 1 1
+delta (sort.) =   -71 -6 -1 0 1 4 15 19 39 
+wagi:             0 4225 9125 14166 19350 24975 32371 40471 52571 
+zakres: 52571, losowanie: 40557.3
+kto dzis kupuje: 8
+
+ktoKupuje: 8
+zjedzone:     79 80 71 79 81 85 90 79 76
+
+kupione:      149 79 71 74 79 90 74 59 45
+
+obliczDelty  -70 1 0 5 2 -5 16 20 31 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 1
+losujNieobecnych: 1 1 - 1 1 1 1 1 1
+delta (sort.) =   -70 -5 0 1 2 5 16 20 
+wagi:             0 4225 9125 14166 19350 24975 32371 40471 
+zakres: 40471, losowanie: 8755.73
+kto dzis kupuje: 0
+
+ktoKupuje: 0
+zjedzone:     80 81 71 80 82 86 91 80 77
+
+kupione:      157 79 71 74 79 90 74 59 45
+
+obliczDelty  -77 2 0 6 3 -4 17 21 32 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 0
+losujNieobecnych: 1 1 1 1 1 1 1 1 1
+delta (sort.) =   -77 -4 0 2 3 6 17 21 32 
+wagi:             0 5329 11258 17499 23899 30788 39624 49228 61109 
+zakres: 61109, losowanie: 15658.2
+kto dzis kupuje: 1
+
+ktoKupuje: 1
+zjedzone:     81 82 72 81 83 87 92 81 78
+
+kupione:      157 88 71 74 79 90 74 59 45
+
+obliczDelty  -76 -6 1 7 4 -3 18 22 33 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 0
+losujNieobecnych: 1 1 1 1 1 1 1 1 1
+delta (sort.) =   -76 -6 -3 1 4 7 18 22 33 
+wagi:             0 4900 10229 16158 22558 29447 38283 47887 59768 
+zakres: 59768, losowanie: 17204.3
+kto dzis kupuje: 4
+
+ktoKupuje: 4
+zjedzone:     82 83 73 82 84 88 93 82 79
+
+kupione:      157 88 71 74 88 90 74 59 45
+
+obliczDelty  -75 -5 2 8 -4 -2 19 23 34 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 1
+losujNieobecnych: 1 1 1 1 1 1 1 - 1
+delta (sort.) =   -75 -5 -4 -2 0 2 8 19 
+wagi:             0 4900 9941 15270 20895 26824 33713 42549 
+zakres: 42549, losowanie: 550.578
+kto dzis kupuje: 0
+
+ktoKupuje: 0
+zjedzone:     83 84 74 83 85 89 94 82 80
+
+kupione:      165 88 71 74 88 90 74 59 45
+
+obliczDelty  -82 -4 3 9 -3 -1 20 23 35 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 1
+losujNieobecnych: 1 1 1 1 1 - 1 1 1
+delta (sort.) =   -82 -4 -3 0 3 9 20 23 
+wagi:             0 6084 12325 19049 26274 34555 44959 55984 
+zakres: 55984, losowanie: 12523.7
+kto dzis kupuje: 0
+
+ktoKupuje: 0
+zjedzone:     84 85 75 84 86 89 95 83 81
+
+kupione:      173 88 71 74 88 90 74 59 45
+
+obliczDelty  -89 -3 4 10 -2 -1 21 24 36 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: - 1 1 - 1 1 1 1 1
+delta (sort.) =   -3 -2 -1 0 0 4 21 
+wagi:             0 1 5 14 23 72 648 
+zakres: 648, losowanie: 83.8107
+kto dzis kupuje: 6
+
+ktoKupuje: 6
+zjedzone:     84 86 76 84 87 90 96 84 82
+
+kupione:      173 88 71 74 88 90 81 59 45
+
+obliczDelty  -89 -2 5 10 -1 0 15 25 37 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 0
+losujNieobecnych: 1 1 1 1 1 1 1 1 1
+delta (sort.) =   -89 -2 -1 0 5 10 15 25 37 
+wagi:             0 7569 15313 23234 32070 41871 52687 65683 81559 
+zakres: 81559, losowanie: 71463.4
+kto dzis kupuje: 8
+
+ktoKupuje: 8
+zjedzone:     85 87 77 85 88 91 97 85 83
+
+kupione:      173 88 71 74 88 90 81 59 54
+
+obliczDelty  -88 -1 6 11 0 1 16 26 29 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 0
+losujNieobecnych: 1 1 1 1 1 1 1 1 1
+delta (sort.) =   -88 -1 0 1 6 11 16 26 29 
+wagi:             0 7569 15313 23234 32070 41871 52687 65683 79372 
+zakres: 79372, losowanie: 58651.5
+kto dzis kupuje: 7
+
+ktoKupuje: 7
+zjedzone:     86 88 78 86 89 92 98 86 84
+
+kupione:      173 88 71 74 88 90 81 68 54
+
+obliczDelty  -87 0 7 12 1 2 17 18 30 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 3
+losujNieobecnych: - - 1 1 1 1 1 1 -
+delta (sort.) =   0 0 1 2 7 12 
+wagi:             0 0 1 5 54 198 
+zakres: 198, losowanie: 104.393
+kto dzis kupuje: 3
+
+ktoKupuje: 3
+zjedzone:     86 88 79 87 90 93 99 87 84
+
+kupione:      173 88 71 80 88 90 81 68 54
+
+obliczDelty  -87 0 8 7 2 3 18 19 30 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 1
+losujNieobecnych: - 1 1 1 1 1 1 1 1
+delta (sort.) =   0 0 2 3 7 8 18 19 
+wagi:             0 0 4 13 62 126 450 811 
+zakres: 811, losowanie: 288.096
+kto dzis kupuje: 6
+
+ktoKupuje: 6
+zjedzone:     86 89 80 88 91 94 100 88 85
+
+kupione:      173 88 71 80 88 90 89 68 54
+
+obliczDelty  -87 1 9 8 3 4 11 20 31 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 0
+losujNieobecnych: 1 1 1 1 1 1 1 1 1
+delta (sort.) =   -87 1 3 4 8 9 11 20 31 
+wagi:             0 7744 15844 24125 33150 42366 51970 63419 77343 
+zakres: 77343, losowanie: 47481.7
+kto dzis kupuje: 6
+
+ktoKupuje: 6
+zjedzone:     87 90 81 89 92 95 101 89 86
+
+kupione:      173 88 71 80 88 90 98 68 54
+
+obliczDelty  -86 2 10 9 4 5 3 21 32 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 1
+losujNieobecnych: 1 1 1 1 1 1 1 1 -
+delta (sort.) =   -86 2 3 4 5 9 10 21 
+wagi:             0 7744 15665 23765 32046 41071 50287 61736 
+zakres: 61736, losowanie: 24269
+kto dzis kupuje: 5
+
+ktoKupuje: 5
+zjedzone:     88 91 82 90 93 96 102 90 86
+
+kupione:      173 88 71 80 88 98 98 68 54
+
+obliczDelty  -85 3 11 10 5 -2 4 22 32 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: 1 1 1 - 1 1 1 1 -
+delta (sort.) =   -85 -2 0 3 4 5 11 
+wagi:             0 6889 14114 21858 29779 37879 47095 
+zakres: 47095, losowanie: 20678
+kto dzis kupuje: 1
+
+ktoKupuje: 1
+zjedzone:     89 92 83 90 94 97 103 91 86
+
+kupione:      173 95 71 80 88 98 98 68 54
+
+obliczDelty  -84 -3 12 10 6 -1 5 23 32 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: - 1 1 1 - 1 1 1 1
+delta (sort.) =   -3 -1 0 0 5 10 12 
+wagi:             0 4 13 22 86 255 480 
+zakres: 480, losowanie: 57.5994
+kto dzis kupuje: 6
+
+ktoKupuje: 6
+zjedzone:     89 93 84 91 94 98 104 92 87
+
+kupione:      173 95 71 80 88 98 105 68 54
+
+obliczDelty  -84 -2 13 11 6 0 -1 24 33 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 0
+losujNieobecnych: 1 1 1 1 1 1 1 1 1
+delta (sort.) =   -84 -2 -1 0 6 11 13 24 33 
+wagi:             0 6724 13613 20669 28769 37794 47203 58867 72556 
+zakres: 72556, losowanie: 30019.3
+kto dzis kupuje: 3
+
+ktoKupuje: 3
+zjedzone:     90 94 85 92 95 99 105 93 88
+
+kupione:      173 95 71 89 88 98 105 68 54
+
+obliczDelty  -83 -1 14 3 7 1 0 25 34 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 3
+losujNieobecnych: 1 - 1 - 1 - 1 1 1
+delta (sort.) =   -83 0 0 0 7 14 
+wagi:             0 6889 13778 20667 28767 38176 
+zakres: 38176, losowanie: 36561.2
+kto dzis kupuje: 2
+
+ktoKupuje: 2
+zjedzone:     91 94 86 92 96 99 106 94 89
+
+kupione:      173 95 77 89 88 98 105 68 54
+
+obliczDelty  -82 -1 9 3 8 1 1 26 35 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 1
+losujNieobecnych: 1 1 1 1 1 1 1 1 -
+delta (sort.) =   -82 -1 1 1 3 8 9 26 
+wagi:             0 6561 13450 20339 27564 35664 43945 55609 
+zakres: 55609, losowanie: 35186.1
+kto dzis kupuje: 4
+
+ktoKupuje: 4
+zjedzone:     92 95 87 93 97 100 107 95 89
+
+kupione:      173 95 77 89 96 98 105 68 54
+
+obliczDelty  -81 0 10 4 1 2 2 27 35 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: 1 1 - 1 1 1 - 1 1
+delta (sort.) =   -81 0 0 0 1 2 4 
+wagi:             0 6561 13122 19683 26407 33296 40521 
+zakres: 40521, losowanie: 24897.3
+kto dzis kupuje: 4
+
+ktoKupuje: 4
+zjedzone:     93 96 87 94 98 101 107 96 90
+
+kupione:      173 95 77 89 103 98 105 68 54
+
+obliczDelty  -80 1 10 5 -5 3 2 28 36 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 3
+losujNieobecnych: - 1 1 1 1 - 1 - 1
+delta (sort.) =   -5 0 0 1 5 10 
+wagi:             0 25 50 86 186 411 
+zakres: 411, losowanie: 159.222
+kto dzis kupuje: 3
+
+ktoKupuje: 3
+zjedzone:     93 97 88 95 99 101 108 96 91
+
+kupione:      173 95 77 95 103 98 105 68 54
+
+obliczDelty  -80 2 11 0 -4 3 3 28 37 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 1
+losujNieobecnych: 1 1 1 - 1 1 1 1 1
+delta (sort.) =   -80 -4 0 2 3 3 11 28 
+wagi:             0 5776 12176 18900 25789 32678 40959 52623 
+zakres: 52623, losowanie: 35386.1
+kto dzis kupuje: 2
+
+ktoKupuje: 2
+zjedzone:     94 98 89 95 100 102 109 97 92
+
+kupione:      173 95 85 95 103 98 105 68 54
+
+obliczDelty  -79 3 4 0 -3 4 4 29 38 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 0
+losujNieobecnych: 1 1 1 1 1 1 1 1 1
+delta (sort.) =   -79 -3 0 3 4 4 4 29 38 
+wagi:             0 5776 12017 18741 25630 32519 39408 51072 64761 
+zakres: 64761, losowanie: 16473.4
+kto dzis kupuje: 1
+
+ktoKupuje: 1
+zjedzone:     95 99 90 96 101 103 110 98 93
+
+kupione:      173 104 85 95 103 98 105 68 54
+
+obliczDelty  -78 -5 5 1 -2 5 5 30 39 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 1
+losujNieobecnych: 1 - 1 1 1 1 1 1 1
+delta (sort.) =   -78 -2 0 1 5 5 5 30 
+wagi:             0 5776 11860 18101 24990 31879 38768 50432 
+zakres: 50432, losowanie: 464.811
+kto dzis kupuje: 0
+
+ktoKupuje: 0
+zjedzone:     96 99 91 97 102 104 111 99 94
+
+kupione:      181 104 85 95 103 98 105 68 54
+
+obliczDelty  -85 -5 6 2 -1 6 6 31 40 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: 1 1 - 1 1 1 1 - 1
+delta (sort.) =   -85 -5 -1 0 2 6 6 
+wagi:             0 6400 13456 20681 28250 36531 44812 
+zakres: 44812, losowanie: 31259.1
+kto dzis kupuje: 5
+
+ktoKupuje: 5
+zjedzone:     97 100 91 98 103 105 112 99 95
+
+kupione:      181 104 85 95 103 105 105 68 54
+
+obliczDelty  -84 -4 6 3 0 0 7 31 41 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: 1 1 1 - 1 1 1 1 -
+delta (sort.) =   -84 -4 0 0 0 6 7 
+wagi:             0 6400 13456 20512 27568 35668 43949 
+zakres: 43949, losowanie: 5847.88
+kto dzis kupuje: 0
+
+ktoKupuje: 0
+zjedzone:     98 101 92 98 104 106 113 100 95
+
+kupione:      188 104 85 95 103 105 105 68 54
+
+obliczDelty  -90 -3 7 3 1 1 8 32 41 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 0
+losujNieobecnych: 1 1 1 1 1 1 1 1 1
+delta (sort.) =   -90 -3 1 1 3 7 8 32 41 
+wagi:             0 7569 15850 24131 32780 42189 51793 66677 83838 
+zakres: 83838, losowanie: 34226.5
+kto dzis kupuje: 2
+
+ktoKupuje: 2
+zjedzone:     99 102 93 99 105 107 114 101 96
+
+kupione:      188 104 94 95 103 105 105 68 54
+
+obliczDelty  -89 -2 -1 4 2 2 9 33 42 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: 1 - 1 1 1 1 1 1 -
+delta (sort.) =   -89 -1 0 2 2 4 9 
+wagi:             0 7744 15665 23946 32227 40876 50480 
+zakres: 50480, losowanie: 41370.6
+kto dzis kupuje: 6
+
+ktoKupuje: 6
+zjedzone:     100 102 94 100 106 108 115 102 96
+
+kupione:      188 104 94 95 103 105 112 68 54
+
+obliczDelty  -88 -2 0 5 3 3 3 34 42 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 1
+losujNieobecnych: 1 1 1 1 1 - 1 1 1
+delta (sort.) =   -88 -2 0 0 3 3 5 34 
+wagi:             0 7396 15140 22884 31165 39446 48095 62979 
+zakres: 62979, losowanie: 19756.5
+kto dzis kupuje: 0
+
+ktoKupuje: 0
+zjedzone:     101 103 95 101 107 108 116 103 97
+
+kupione:      196 104 94 95 103 105 112 68 54
+
+obliczDelty  -95 -1 1 6 4 3 4 35 43 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 3
+losujNieobecnych: 1 1 1 1 1 1 - - -
+delta (sort.) =   -95 -1 1 3 4 6 
+wagi:             0 8836 18052 27656 37457 47658 
+zakres: 47658, losowanie: 26244.1
+kto dzis kupuje: 5
+
+ktoKupuje: 5
+zjedzone:     102 104 96 102 108 109 116 103 97
+
+kupione:      196 104 94 95 103 111 112 68 54
+
+obliczDelty  -94 0 2 7 5 -2 4 35 43 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: 1 1 1 1 1 - 1 1 -
+delta (sort.) =   -94 0 0 2 4 5 7 
+wagi:             0 8836 17672 26888 36492 46293 56494 
+zakres: 56494, losowanie: 33892.6
+kto dzis kupuje: 6
+
+ktoKupuje: 6
+zjedzone:     103 105 97 103 109 109 117 104 97
+
+kupione:      196 104 94 95 103 111 119 68 54
+
+obliczDelty  -93 1 3 8 6 -2 -2 36 43 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: - 1 1 1 1 1 1 1 -
+delta (sort.) =   -2 -2 0 1 3 6 8 
+wagi:             0 0 4 13 38 102 202 
+zakres: 202, losowanie: 78.6189
+kto dzis kupuje: 4
+
+ktoKupuje: 4
+zjedzone:     103 106 98 104 110 110 118 105 97
+
+kupione:      196 104 94 95 110 111 119 68 54
+
+obliczDelty  -93 2 4 9 0 -1 -1 37 43 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: 1 - 1 1 1 1 1 1 -
+delta (sort.) =   -93 -1 -1 0 0 4 9 
+wagi:             0 8464 16928 25577 34226 43635 54039 
+zakres: 54039, losowanie: 20064
+kto dzis kupuje: 0
+
+ktoKupuje: 0
+zjedzone:     104 106 99 105 111 111 119 106 97
+
+kupione:      203 104 94 95 110 111 119 68 54
+
+obliczDelty  -99 2 5 10 1 0 0 38 43 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: 1 1 1 1 - 1 1 - 1
+delta (sort.) =   -99 0 0 0 2 5 10 
+wagi:             0 9801 19602 29403 39604 50420 62301 
+zakres: 62301, losowanie: 38156
+kto dzis kupuje: 1
+
+ktoKupuje: 1
+zjedzone:     105 107 100 106 111 112 120 106 98
+
+kupione:      203 111 94 95 110 111 119 68 54
+
+obliczDelty  -98 -4 6 11 1 1 1 38 44 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 3
+losujNieobecnych: 1 - 1 1 - - 1 1 1
+delta (sort.) =   -98 0 0 0 6 11 
+wagi:             0 9604 19208 28812 39628 51509 
+zakres: 51509, losowanie: 15546.9
+kto dzis kupuje: 0
+
+ktoKupuje: 0
+zjedzone:     106 107 101 107 111 112 121 107 99
+
+kupione:      209 111 94 95 110 111 119 68 54
+
+obliczDelty  -103 -4 7 12 1 1 2 39 45 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: 1 1 - 1 1 1 - 1 1
+delta (sort.) =   -103 -4 0 0 1 1 12 
+wagi:             0 9801 20410 31019 41835 52651 65876 
+zakres: 65876, losowanie: 16753
+kto dzis kupuje: 0
+
+ktoKupuje: 0
+zjedzone:     107 108 101 108 112 113 121 108 100
+
+kupione:      216 111 94 95 110 111 119 68 54
+
+obliczDelty  -109 -3 7 13 2 2 2 40 46 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 1
+losujNieobecnych: 1 - 1 1 1 1 1 1 1
+delta (sort.) =   -109 0 2 2 2 7 13 40 
+wagi:             0 11881 24202 36523 48844 62300 77184 99385 
+zakres: 99385, losowanie: 11917
+kto dzis kupuje: 4
+
+ktoKupuje: 4
+zjedzone:     108 108 102 109 113 114 122 109 101
+
+kupione:      216 111 94 95 118 111 119 68 54
+
+obliczDelty  -108 -3 8 14 -5 3 3 41 47 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 3
+losujNieobecnych: 1 1 1 1 - 1 1 - -
+delta (sort.) =   -108 -3 0 3 8 14 
+wagi:             0 11025 22689 35010 48466 63350 
+zakres: 63350, losowanie: 50653.7
+kto dzis kupuje: 3
+
+ktoKupuje: 3
+zjedzone:     109 109 103 110 113 115 123 109 101
+
+kupione:      216 111 94 101 118 111 119 68 54
+
+obliczDelty  -107 -2 9 9 -5 4 4 41 47 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: - 1 1 1 1 - 1 1 1
+delta (sort.) =   -5 -2 0 0 4 9 9 
+wagi:             0 9 34 59 140 336 532 
+zakres: 532, losowanie: 165.557
+kto dzis kupuje: 2
+
+ktoKupuje: 2
+zjedzone:     109 110 104 111 114 115 124 110 102
+
+kupione:      216 111 101 101 118 111 119 68 54
+
+obliczDelty  -107 -1 3 10 -4 4 5 42 48 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 0
+losujNieobecnych: 1 1 1 1 1 1 1 1 1
+delta (sort.) =   -107 -4 -1 3 4 5 10 42 48 
+wagi:             0 10609 21845 33945 46266 58810 72499 94700 118725 
+zakres: 118725, losowanie: 27370.5
+kto dzis kupuje: 2
+
+ktoKupuje: 2
+zjedzone:     110 111 105 112 115 116 125 111 103
+
+kupione:      216 111 110 101 118 111 119 68 54
+
+obliczDelty  -106 0 -5 11 -3 5 6 43 49 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 0
+losujNieobecnych: 1 1 1 1 1 1 1 1 1
+delta (sort.) =   -106 -5 -3 0 5 6 11 43 49 
+wagi:             0 10201 20810 32046 44367 56911 70600 92801 116826 
+zakres: 116826, losowanie: 19074.7
+kto dzis kupuje: 4
+
+ktoKupuje: 4
+zjedzone:     111 112 106 113 116 117 126 112 104
+
+kupione:      216 111 110 101 127 111 119 68 54
+
+obliczDelty  -105 1 -4 12 -11 6 7 44 50 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 0
+losujNieobecnych: 1 1 1 1 1 1 1 1 1
+delta (sort.) =   -105 -11 -4 1 6 7 12 44 50 
+wagi:             0 8836 19037 30273 42594 55138 68827 91028 115053 
+zakres: 115053, losowanie: 97777.7
+kto dzis kupuje: 8
+
+ktoKupuje: 8
+zjedzone:     112 113 107 114 117 118 127 113 105
+
+kupione:      216 111 110 101 127 111 119 68 63
+
+obliczDelty  -104 2 -3 13 -10 7 8 45 42 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: 1 1 1 1 1 - 1 1 -
+delta (sort.) =   -104 -10 -3 0 2 8 13 
+wagi:             0 8836 19037 29853 41089 53633 67322 
+zakres: 67322, losowanie: 5687.04
+kto dzis kupuje: 0
+
+ktoKupuje: 0
+zjedzone:     113 114 108 115 118 118 128 114 105
+
+kupione:      223 111 110 101 127 111 119 68 63
+
+obliczDelty  -110 3 -2 14 -9 7 9 46 42 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 3
+losujNieobecnych: - 1 1 1 1 1 - 1 -
+delta (sort.) =   -9 -2 0 3 7 14 
+wagi:             0 49 130 274 530 1059 
+zakres: 1059, losowanie: 325.938
+kto dzis kupuje: 5
+
+ktoKupuje: 5
+zjedzone:     113 115 109 116 119 119 128 115 105
+
+kupione:      223 111 110 101 127 117 119 68 63
+
+obliczDelty  -110 4 -1 15 -8 2 9 47 42 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 0
+losujNieobecnych: 1 1 1 1 1 1 1 1 1
+delta (sort.) =   -110 -8 -1 2 4 9 15 42 47 
+wagi:             0 10404 22285 34829 47825 61986 77611 100715 125364 
+zakres: 125364, losowanie: 58134.9
+kto dzis kupuje: 6
+
+ktoKupuje: 6
+zjedzone:     114 116 110 117 120 120 129 116 106
+
+kupione:      223 111 110 101 127 117 128 68 63
+
+obliczDelty  -109 5 0 16 -7 3 1 48 43 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 3
+losujNieobecnych: - 1 1 1 1 1 - 1 -
+delta (sort.) =   -7 0 0 3 5 16 
+wagi:             0 49 98 198 342 871 
+zakres: 871, losowanie: 587.985
+kto dzis kupuje: 3
+
+ktoKupuje: 3
+zjedzone:     114 117 111 118 121 121 129 117 106
+
+kupione:      223 111 110 107 127 117 128 68 63
+
+obliczDelty  -109 6 1 11 -6 4 1 49 43 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 3
+losujNieobecnych: - 1 1 1 - - 1 1 1
+delta (sort.) =   0 0 0 1 6 11 
+wagi:             0 0 0 1 37 158 
+zakres: 158, losowanie: 39.641
+kto dzis kupuje: 3
+
+ktoKupuje: 3
+zjedzone:     114 118 112 119 121 121 130 118 107
+
+kupione:      223 111 110 113 127 117 128 68 63
+
+obliczDelty  -109 7 2 6 -6 4 2 50 44 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 3
+losujNieobecnych: 1 - 1 1 1 1 - 1 -
+delta (sort.) =   -109 -6 0 2 4 6 
+wagi:             0 10609 22490 34811 47580 60805 
+zakres: 60805, losowanie: 29609.2
+kto dzis kupuje: 2
+
+ktoKupuje: 2
+zjedzone:     115 118 113 120 122 122 130 119 107
+
+kupione:      223 111 116 113 127 117 128 68 63
+
+obliczDelty  -108 7 -3 7 -5 5 2 51 44 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 2
+losujNieobecnych: 1 1 1 1 1 1 1 - -
+delta (sort.) =   -108 -5 -3 2 5 7 7 
+wagi:             0 10609 21634 33734 46503 59728 72953 
+zakres: 72953, losowanie: 10559.9
+kto dzis kupuje: 0
+
+ktoKupuje: 0
+zjedzone:     116 119 114 121 123 123 131 119 107
+
+kupione:      230 111 116 113 127 117 128 68 63
+
+obliczDelty  -114 8 -2 8 -4 6 3 51 44 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 1
+losujNieobecnych: 1 1 1 1 1 - 1 1 1
+delta (sort.) =   -114 -4 -2 0 3 8 8 51 
+wagi:             0 12100 24644 37640 51329 66213 81097 108322 
+zakres: 108322, losowanie: 94708.6
+kto dzis kupuje: 7
+
+ktoKupuje: 7
+zjedzone:     117 120 115 122 124 123 132 120 108
+
+kupione:      230 111 116 113 127 117 128 76 63
+
+obliczDelty  -113 9 -1 9 -3 6 4 44 45 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 0
+losujNieobecnych: 1 1 1 1 1 1 1 1 1
+delta (sort.) =   -113 -3 -1 4 6 9 9 44 45 
+wagi:             0 12100 24644 38333 52494 67378 82262 106911 131875 
+zakres: 131875, losowanie: 89632.5
+kto dzis kupuje: 7
+
+ktoKupuje: 7
+zjedzone:     118 121 116 123 125 124 133 121 109
+
+kupione:      230 111 116 113 127 117 128 85 63
+
+obliczDelty  -112 10 0 10 -2 7 5 36 46 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 0
+losujNieobecnych: 1 1 1 1 1 1 1 1 1
+delta (sort.) =   -112 -2 0 5 7 10 10 36 46 
+wagi:             0 12100 24644 38333 52494 67378 82262 104166 129130 
+zakres: 129130, losowanie: 76192.5
+kto dzis kupuje: 3
+
+ktoKupuje: 3
+zjedzone:     119 122 117 124 126 125 134 122 110
+
+kupione:      230 111 116 122 127 117 128 85 63
+
+obliczDelty  -111 11 1 2 -1 8 6 37 47 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 1
+losujNieobecnych: 1 1 1 1 1 1 - 1 1
+delta (sort.) =   -111 -1 0 1 2 8 11 37 
+wagi:             0 12100 24421 36965 49734 63895 78779 100683 
+zakres: 100683, losowanie: 26412.9
+kto dzis kupuje: 2
+
+ktoKupuje: 2
+zjedzone:     120 123 118 125 127 126 134 123 111
+
+kupione:      230 111 124 122 127 117 128 85 63
+
+obliczDelty  -110 12 -6 3 0 9 6 38 48 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 3
+losujNieobecnych: 1 - 1 1 1 1 1 - -
+delta (sort.) =   -110 -6 0 0 3 9 
+wagi:             0 10816 22916 35016 47785 61946 
+zakres: 61946, losowanie: 5898.36
+kto dzis kupuje: 0
+
+ktoKupuje: 0
+zjedzone:     121 123 119 126 128 127 135 123 111
+
+kupione:      236 111 124 122 127 117 128 85 63
+
+obliczDelty  -115 12 -5 4 1 10 7 38 48 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 0
+losujNieobecnych: 1 1 1 1 1 1 1 1 1
+delta (sort.) =   -115 -5 1 4 7 10 12 38 48 
+wagi:             0 12100 25556 39717 54601 70226 86355 109764 136333 
+zakres: 136333, losowanie: 121995
+kto dzis kupuje: 8
+
+ktoKupuje: 8
+zjedzone:     122 124 120 127 129 128 136 124 112
+
+kupione:      236 111 124 122 127 117 128 85 72
+
+obliczDelty  -114 13 -4 5 2 11 8 39 40 
+
+ --------NOWY DZIEN ----------
+nieobecni w pracy: 3
+losujNieobecnych: - 1 - 1 1 1 1 1 -
+delta (sort.) =   0 0 2 5 11 13 
+wagi:             0 0 4 29 150 319 
+zakres: 319, losowanie: 253.101
+kto dzis kupuje: 1
+
+ktoKupuje: 1
+zjedzone:     122 125 120 128 130 129 137 125 112
+
+kupione:      236 117 124 122 127 117 128 85 72
+
+obliczDelty  -114 8 -4 6 3 12 9 40 40 
+-------PODSUMOWANIE---------
+suma delt: 236
